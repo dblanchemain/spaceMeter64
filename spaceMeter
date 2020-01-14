@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ~/bin/spaceMeter64
+./spaceMeter64bin
